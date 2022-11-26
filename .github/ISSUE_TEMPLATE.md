@@ -1,10 +1,10 @@
 <!--- Remove sections that do not apply -->
 
-This issue tracker is only for technical issues related to litecoin-core.
+This issue tracker is only for technical issues related to uramacoin-core.
 
-General litecoin questions and/or support requests and are best directed to the [litecointalk.io forums](https://litecointalk.io/).
+General uramacoin questions and/or support requests and are best directed to the [uramacointalk.io forums](https://uramacointalk.io/).
 
-For reporting security issues, please contact the Litecoin developers on the #litecoin-dev Freenode IRC channel or alternatively you can email us at contact@litecoin.org.
+For reporting security issues, please contact the Uramacoin developers on the #uramacoin-dev Freenode IRC channel or alternatively you can email us at contact@uramacoin.org.
 
 ### Describe the issue
 
@@ -23,7 +23,7 @@ Tell us what happens instead
 ### Screenshots.
 If the issue is related to the GUI, screenshots can be added to this issue via drag & drop.
 
-### What version of litecoin-core are you using?
+### What version of uramacoin-core are you using?
 List the version number/commit ID, and if it is an official binary, self compiled or a distribution package such as PPA.
 
 ### Machine specs:
